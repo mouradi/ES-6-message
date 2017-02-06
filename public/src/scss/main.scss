@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+@import "variables";
+div {
+  color: $color;
+  background: $bg_color;
+  width: $box-width;
+  min-height: $box-width * 0.6;
+  padding: 40px;
+  margin: 20px auto;
+  border: 2px solid black;
+  font-size: 4em;
+  text-align: center;
+}
+p {
+  color:#CCC;
+}
+
+.spacing {
+  padding-top:7px;
+  padding-bottom:7px;
+}
+.middlePage {
+  width: 680px;
+  height: 500px;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.logo {
+  color:#CCC;
+}
