@@ -2,7 +2,9 @@
 Application avec firebase
 
 ##https://mmtravailrendue.firebaseapp.com/
-
+pour tester voila @mail & mot de pass
+#E-mail : admin@live.com
+#password :admin1234
 L'objectif de ce projet est d'envoyer des messages et les consultés en se basant sur la technologie firebase et l'ajax , avec ecmascript6.
     
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
