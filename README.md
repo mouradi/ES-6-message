@@ -2,9 +2,9 @@
 Application avec firebase
 
 ##https://mmtravailrendue.firebaseapp.com/
-pour tester voila @mail & mot de pass
+Pour tester voici les élément de connnexion
 #E-mail : admin@live.com
-#password :admin1234
+#password :*****
     
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
