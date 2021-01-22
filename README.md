@@ -1,10 +1,7 @@
 # EcmaScript-6
 Application avec firebase
 
-##https://mmtravailrendue.firebaseapp.com/
-Pour tester voici les élément de connnexion
-#E-mail : admin@live.com
-#password :admin1234
+
     
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
