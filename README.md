@@ -5,7 +5,6 @@ Application avec firebase
 pour tester voila @mail & mot de pass
 #E-mail : admin@live.com
 #password :admin1234
-L'objectif de ce projet est d'envoyer des messages et les consultés en se basant sur la technologie firebase et l'ajax , avec ecmascript6.
     
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -25,7 +24,7 @@ public (dossier)            - Il contient les sous dossiers (dist sass src et le
 ##MESSAGE   
 
     CONSTRUCTOR (id,objet,message,etat,date,email)<br>
-    @toTr() return un formatage de ligne contenant tous les attributs du message par exemple : mouradim252@gmail.com	objet1 	message1 5 Février 2017 # Temps 23 H : 9 Min
+    @toTr() return un formatage de ligne contenant tous les attributs du message par exemple : xxxxgmail.com	objet1 	message1 5 Février 2017 # Temps 23 H : 9 Min
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##AFirebase 
@@ -72,4 +71,4 @@ Mouradi Mohammed
 
 ##License
 
-Ce projet est développé avec des technologies OpenSource 
+No licence
